@@ -1,18 +1,18 @@
-# HI Traveler 👨‍✈️
+# Hi Traveler 👨‍✈️
 
-# 🚀 About me
+## 🚀 About me
 
-🎓Hi, I am Tijani Sheu- a Front End Web Developer bilding and learning on being Full-Stack, and a Google Certified Product designer (User Interface and Experience Designer) currently working on user-centered designs and development. I have worked on different spaces and platforms, delivering unparalleled design efficiency and real-time productivity. A Product designer who is passionate about solving complex problems through data-driven methods that translates business objectives into digital solutions through product design and a Developer who is constantly cotributing to the welfare of the community to continuously drive change.
+🎓 I am Tijani Sheu, a Google Certified UX Designer and Meta Certified Front End Web developer. I am currently learning React Js and Ruby on Rails, and focusing on the front-end and back-end of the web.
 
->"The world is constantly evolving without a track, launching the humans into a MetaVerse where humans learn the languages of Machines to harness and train them  to behave like them. This is where Development and Designing comes in, Creating an experience through a series of touch points that forms the framework, to have a meaningful interaction. It starts with understanding what the user needs, and ideating an innovative solution to fulfill and conquer the problem " - Tijani Sheu
+👷‍ I am presently Pursuing my Bachelor's Degree in Computer Science.
 
-👷‍ I am presently Pursuing my Bachelor's Degree in Computer Science & Engineering.
+📖 Outside Web Development and Designing, I fancy reading and writing literature. I see it a safe haven for my thoughts and inner.
 
-📖 Outside Web Development and Designing, I fancy reading and writing literature; and see it a safe haven for my thoughts and inner demons on a rough and patchy day, but also aids in my technical and user experience writing.
+📚 I read books on self development, psychology & technological innovations. I've read books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom, which was the most homorous and "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
 
-📚 I read books on self development, psychology & technological innovations. I've read books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom; which was the most homorous in helping me through a phase and "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
+## 🛠 Skills
 
-# 🛠 Skills
+Web Development, Responsive Web Design, Mobile Design
 
 ### Languages
 
