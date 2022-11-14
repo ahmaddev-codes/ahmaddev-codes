@@ -16,19 +16,15 @@
 
 Web Development, Responsive Web Design, Mobile Design
 
-### Languages
+### Tech Stack
 
-![image](https://user-images.githubusercontent.com/110635002/188376681-599aeda0-61c1-477a-a2b5-e0c38990c959.png) ![image](https://user-images.githubusercontent.com/110635002/188376841-4f53fbf3-8a9d-4488-8cd3-cf7362101b64.png)
-
-### Development
-
-![image](https://user-images.githubusercontent.com/110635002/188375482-22f9eb70-5b00-43cf-be5d-6f7a79222270.png) ![image](https://user-images.githubusercontent.com/110635002/188375903-1d2266d9-0883-435c-84bb-3f6c62eed52b.png)
+![image](https://user-images.githubusercontent.com/110635002/188376681-599aeda0-61c1-477a-a2b5-e0c38990c959.png) ![image](https://user-images.githubusercontent.com/110635002/188376841-4f53fbf3-8a9d-4488-8cd3-cf7362101b64.png) ![image](https://user-images.githubusercontent.com/110635002/188375482-22f9eb70-5b00-43cf-be5d-6f7a79222270.png) ![image](https://user-images.githubusercontent.com/110635002/188375903-1d2266d9-0883-435c-84bb-3f6c62eed52b.png)
 
 ### Design Tools
 
 ![image](https://user-images.githubusercontent.com/110635002/188381794-3e8c47fd-124d-4c3e-8737-e5def337577f.png) ![image](https://user-images.githubusercontent.com/110635002/188381828-1ab47b82-78e5-4bc4-8d00-aa5eb099224c.png)
 
-## Links
+## Contac me
 
 [![portfolio](https://user-images.githubusercontent.com/110635002/188383561-fca3ba4b-1616-44cd-99b2-c9e9cc56fe6c.png)](https://ahmadtijani.myportfolio.com/)
 [![resume](https://user-images.githubusercontent.com/110635002/188383646-fd908fa0-ea02-46e1-944f-acd0e662ab60.png)](https://drive.google.com/file/d/16L85GCKxWioJOJ6VihMjtNVHqzaDofe7/view)
