@@ -1,6 +1,4 @@
-# Hi Traveler 👨‍✈️
-
-## 🚀 About me
+## Hi Traveler 👨‍✈️
 
 🎓 I am Tijani Sheu, a Google Certified UX Designer and Meta Certified Front End Web developer. I am currently learning React Js and Ruby on Rails, and focusing on the front-end and back-end of the web.
 
@@ -9,6 +7,10 @@
 📖 Outside Web Development and Designing, I fancy reading and writing literature. I see it a safe haven for my thoughts and inner.
 
 📚 I read books on self development, psychology & technological innovations. I've read books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom, which was the most homorous and "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
+
+## GitHub Stats
+
+[![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes)](https://github.com/iAhm-codes/github-readme-stats)
 
 ## 🛠 Skills
 
