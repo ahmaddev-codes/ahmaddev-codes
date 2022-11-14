@@ -10,7 +10,7 @@
 
 ## GitHub Stats
 
-[![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes)](https://github.com/iAhm-codes/github-readme-stats)
+[![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
 
 ## 🛠 Skills
 
@@ -18,7 +18,7 @@ Web Development, Responsive Web Design, Mobile Design
 
 ### Tech Stack
 
-![image](https://user-images.githubusercontent.com/110635002/188376681-599aeda0-61c1-477a-a2b5-e0c38990c959.png) ![image](https://user-images.githubusercontent.com/110635002/188376841-4f53fbf3-8a9d-4488-8cd3-cf7362101b64.png) ![image](https://user-images.githubusercontent.com/110635002/188375482-22f9eb70-5b00-43cf-be5d-6f7a79222270.png) ![image](https://user-images.githubusercontent.com/110635002/188375903-1d2266d9-0883-435c-84bb-3f6c62eed52b.png)
+![image](https://user-images.githubusercontent.com/110635002/201559900-b3df5c77-8fd5-4723-bfd3-356bd8228ef4.png) ![image](https://user-images.githubusercontent.com/110635002/201559945-043d0445-e01d-492b-9f3e-70ee47b75141.png) ![image](https://user-images.githubusercontent.com/110635002/201559974-cd5f8af4-63a2-4410-bcaa-40b1bd6801ec.png) ![image](https://user-images.githubusercontent.com/110635002/201560014-d342bac7-2a6d-462d-816f-076cf67870ff.png) ![image](https://user-images.githubusercontent.com/110635002/201560029-f29bd5b6-e1cc-45dc-9070-7361c2689aba.png) ![image](https://user-images.githubusercontent.com/110635002/201560092-f24eb9c4-62e3-4c00-85d7-c84989923e60.png) ![image](https://user-images.githubusercontent.com/110635002/201560140-3810a14d-d367-4c2c-826d-f61fefd9b158.png)
 
 ### Design Tools
 
@@ -28,7 +28,6 @@ Web Development, Responsive Web Design, Mobile Design
 
 [![portfolio](https://user-images.githubusercontent.com/110635002/188383561-fca3ba4b-1616-44cd-99b2-c9e9cc56fe6c.png)](https://ahmadtijani.myportfolio.com/)
 [![resume](https://user-images.githubusercontent.com/110635002/188383646-fd908fa0-ea02-46e1-944f-acd0e662ab60.png)](https://drive.google.com/file/d/16L85GCKxWioJOJ6VihMjtNVHqzaDofe7/view)
-[![github](https://user-images.githubusercontent.com/110635002/188383873-2d9cdd32-1953-4be0-8355-d8eb7c303038.png)](https://github.com/4pieEnut)
 [![linkedin](https://user-images.githubusercontent.com/110635002/188383975-37cbc257-b178-4fff-8b43-6ee31e7dd4ff.png)](https://www.linkedin.com/in/sheu-tijani-187096179/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkrtBCyXeQ8%2BcyYZO10MbZA%3D%3D)
 [![upwork](https://user-images.githubusercontent.com/110635002/188384078-6b58f98c-81d8-4032-b329-4291285baa61.png)](https://www.upwork.com/freelancers/~016ed46f7a925743a9)
 ![gmail](https://user-images.githubusercontent.com/110635002/188384114-b0421e97-6767-46a9-a230-6eb4f3d4c92d.png)
