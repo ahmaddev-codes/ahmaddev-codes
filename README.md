@@ -1,6 +1,6 @@
 ## Hi Traveler 👨‍✈️
 
-🎓 I am Tijani Sheu, a Google Certified UX Designer and Meta Certified Front End Web developer. I am currently learning React Js and Ruby on Rails, and focusing on the front-end and back-end of the web.
+🎓 I am Tijani Sheu, a Google Certified UX Designer and Meta Certified Front End Web developer. I am currently learning React Js, Ruby on Rails and Python, and focusing on the front-end and back-end of the web.
 
 👷‍ I am presently Pursuing my Bachelor's Degree in Computer Science.
 
