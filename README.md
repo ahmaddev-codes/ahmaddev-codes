@@ -11,15 +11,15 @@
 - Responsive Web Design
 - Mobile Design
 
-### Tech Stack
+### 💻 Tech Stack
 
 ![image](https://user-images.githubusercontent.com/110635002/201559900-b3df5c77-8fd5-4723-bfd3-356bd8228ef4.png) ![image](https://user-images.githubusercontent.com/110635002/201559945-043d0445-e01d-492b-9f3e-70ee47b75141.png) ![image](https://user-images.githubusercontent.com/110635002/201559974-cd5f8af4-63a2-4410-bcaa-40b1bd6801ec.png) ![image](https://user-images.githubusercontent.com/110635002/201560014-d342bac7-2a6d-462d-816f-076cf67870ff.png) ![image](https://user-images.githubusercontent.com/110635002/201560029-f29bd5b6-e1cc-45dc-9070-7361c2689aba.png) ![image](https://user-images.githubusercontent.com/110635002/201560092-f24eb9c4-62e3-4c00-85d7-c84989923e60.png) ![image](https://user-images.githubusercontent.com/110635002/201560140-3810a14d-d367-4c2c-826d-f61fefd9b158.png)
 
-### Design Tools
+### 🎨 Design Tools
 
 ![image](https://user-images.githubusercontent.com/110635002/188381794-3e8c47fd-124d-4c3e-8737-e5def337577f.png) ![image](https://user-images.githubusercontent.com/110635002/188381828-1ab47b82-78e5-4bc4-8d00-aa5eb099224c.png)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 [![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
 
@@ -27,7 +27,7 @@
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
 
-## Contac me
+## 📜 Contact Me
 
 [![portfolio](https://user-images.githubusercontent.com/110635002/188383561-fca3ba4b-1616-44cd-99b2-c9e9cc56fe6c.png)](https://ahmadtijani.myportfolio.com/)
 [![resume](https://user-images.githubusercontent.com/110635002/188383646-fd908fa0-ea02-46e1-944f-acd0e662ab60.png)](https://drive.google.com/file/d/16L85GCKxWioJOJ6VihMjtNVHqzaDofe7/view)
