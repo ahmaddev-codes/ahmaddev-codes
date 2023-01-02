@@ -27,7 +27,7 @@
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
 
-## 📜 Contact Me
+## 📬 Contact Me
 
 [![portfolio](https://user-images.githubusercontent.com/110635002/188383561-fca3ba4b-1616-44cd-99b2-c9e9cc56fe6c.png)](https://ahmadtijani.myportfolio.com/)
 [![resume](https://user-images.githubusercontent.com/110635002/188383646-fd908fa0-ea02-46e1-944f-acd0e662ab60.png)](https://drive.google.com/file/d/16L85GCKxWioJOJ6VihMjtNVHqzaDofe7/view)
