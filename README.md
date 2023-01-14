@@ -1,4 +1,15 @@
 # 👨‍✈️ Hi Traveler, Welcome Onboard!
+## Overview 
+### [Intro](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#%EF%B8%8F-intro)
+### [Technnical Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-technical-skills)
+### [Soft Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-soft-skills)
+### [Tech Stacks](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-tech-stacks)
+### [Design Tools](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-design-tools)
+### [Github Stats](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-github-stats)
+### [Contribution](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contribution)
+### [Contact Me](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contact-me)
+
+## 👷‍♂️ Intro
 
 https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930-b097-4417dc64f1e5.mp4
 
@@ -30,7 +41,7 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - Leadership
 - Management
 
-### 💻 Tech Stack
+### 💻 Tech Stacks
 <br>
 <a href="https://www.w3.org/TR/html5/">
   <img src="https://user-images.githubusercontent.com/110635002/212481330-1665da36-786f-4b1f-9274-0ad47a9ad1e1.png" alt="HTML5" width="40" height="auto">
