@@ -1,5 +1,7 @@
 # 👨‍✈️ Hi Traveler, Welcome Onboard!
 
+https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930-b097-4417dc64f1e5.mp4
+
 - I am **Tijani Sheu**, a Google Certified UX Designer and Meta Certified Front End Web developer leveraging the front-end and back-end of the web, and currently learning the Tools of the Trade of a Backend Developer.
 - I am presently Pursuing my Bachelor's Degree in Computer Science, majoring in Software Engineering(SWE).
 - Outside Software Engineering and Design, I fancy reading, content creation and writing literature. I see it a safe haven for my thoughts and inner peace.
