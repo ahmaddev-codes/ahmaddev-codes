@@ -73,6 +73,16 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
   <img src="https://user-images.githubusercontent.com/110635002/212484464-3364eeed-e9b1-437e-ac1c-7f91754074fe.png" alt="Git" width="50" height="auto">
 </a>
 
+### IDE (Integrated Development Environment)
+<br>
+<a href="https://code.visualstudio.com/">
+  <img src="https://user-images.githubusercontent.com/110635002/212912529-cf41e88b-fe6d-4c3c-ad00-2b22eb81a490.png" alt="VS Code" width="50" height="auto">
+</a>
+&emsp;
+<a href="https://www.sublimetext.com/">
+  <img src="https://user-images.githubusercontent.com/110635002/212912733-aa6f1fb4-8749-498c-a1f0-35490328a2bd.png" alt="Sublime Text" width="50" height="auto">
+</a>
+
 ### 🎨 Design Tools
 <br>
 <a href="https://www.adobe.com/">
