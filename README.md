@@ -44,7 +44,6 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - Management
 
 ### 💻 Tech Stacks
-<br>
 <a href="https://www.w3.org/TR/html5/">
   <img src="https://user-images.githubusercontent.com/110635002/212481330-1665da36-786f-4b1f-9274-0ad47a9ad1e1.png" alt="HTML5" width="40" height="auto">
 </a>
@@ -72,9 +71,9 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://git-scm.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212484464-3364eeed-e9b1-437e-ac1c-7f91754074fe.png" alt="Git" width="50" height="auto">
 </a>
+<br>
 
 ### IDE (Integrated Development Environment)
-<br>
 <a href="https://code.visualstudio.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212912529-cf41e88b-fe6d-4c3c-ad00-2b22eb81a490.png" alt="VS Code" width="50" height="auto">
 </a>
@@ -82,9 +81,9 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://www.sublimetext.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212912733-aa6f1fb4-8749-498c-a1f0-35490328a2bd.png" alt="Sublime Text" width="50" height="auto">
 </a>
+<br>
 
 ### 🎨 Design Tools
-<br>
 <a href="https://www.adobe.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212484834-ece6a7f9-27e8-4e5f-aea1-f148530d5b50.png" alt="Photoshop" width="50" height="auto">
 </a>
@@ -96,14 +95,17 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://www.figma.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212485203-29499c65-e805-474b-b1da-c5fbb6abb7cb.png" alt="Figma" width="30" height="auto">
 </a>
+<br>
 
 ## 📊 GitHub Stats
 
 [![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
+<br>
 
 ## 👨‍💻 Contribution
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
+<br>
 
 ## 📬 Contact Me
 <br>
