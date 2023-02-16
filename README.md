@@ -102,6 +102,9 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 [![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iahm-codes&theme=onedark)](https://github.com/iahm-codes/github-profile-trophy)
+<br>
+
 ## 👨‍💻 Contribution
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
