@@ -71,6 +71,10 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://git-scm.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212484464-3364eeed-e9b1-437e-ac1c-7f91754074fe.png" alt="Git" width="50" height="auto">
 </a>
+&emsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://user-images.githubusercontent.com/110635002/227422016-4e465093-efe5-47f4-bc96-bbae394e40f0.png" alt="C" width="50" height="auto">
+</a>
 <br>
 
 ### IDE (Integrated Development Environment)
