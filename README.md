@@ -18,8 +18,8 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - I am **Tijani Sheu**, a Google Certified UX Designer and Meta Certified Front End Web developer leveraging the front-end and back-end of the web, and currently learning the Tools of the Trade of a Backend Developer.
 - I am presently Pursuing my Bachelor's Degree in Computer Science, majoring in Software Engineering(SWE).
 - Outside Software Engineering and Design, I fancy reading, content creation and writing literature. I see it a safe haven for my thoughts and inner peace.
-- I read books on self development, psychology & technological innovations. I've reads, in its simplicity and diversity, books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom which looks into the meaning and suibtlety of Death - the most homorous of them all, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
-- Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and buiilding a better and impactful Tech Community. 
+- I read books on self development, psychology & technological innovations. I've reads, in its simplicity and diversity, books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom which looks into the meaning and subtlety of Death - the most homorous of them all, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
+- Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community. 
 
 ## 🛠 Technical Skills
 
