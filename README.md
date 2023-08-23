@@ -75,6 +75,10 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://user-images.githubusercontent.com/110635002/227422016-4e465093-efe5-47f4-bc96-bbae394e40f0.png" alt="C" width="50" height="auto">
 </a>
+&emsp;
+<a href="https://docs.python.org">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50" height="auto">
+</a>
 <br>
 
 ### IDE (Integrated Development Environment)
