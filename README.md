@@ -22,26 +22,20 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community. 
 
 ## 🛠 Technical Skills
-
-- Web Development
-- Responsive Web Design
-- Mobile Design
-- Rest APIs
+- Software Engineering
+- Full Stack Development (Frontend & Backend)
+- Responsive Web Design & Development
+- API Design, Development and Consumption
 - Version Control Systems (Git & Github)
-- Technical Writing
-- SCRUM & Agile Methodology
 
 ## 📚🖋 Soft Skills
-- Complete Product Lifecycle
-- Customer Interviews
-- Personas
-- Roadmapping
-- Journey Maps
-- Design / UX principles
-- Collaboration
-- Decision making
-- Leadership
-- Management
+- Team Leadership and Collaboration
+- Technical Writing
+- Strategic Decision Making
+- Project Management
+- Data Cleaning and Analysis
+- Public Speaking
+- SCRUM & Agile Methodology in SDLC
 
 ### 💻 Tech Stacks
 <a href="https://www.w3.org/TR/html5/">
