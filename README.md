@@ -1,17 +1,17 @@
-# 👨‍✈️ Hi Traveler, Welcome Onboard!
-## Overview 
-### [Intro](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#%EF%B8%8F-intro)
-### [Technnical Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-technical-skills)
-### [Soft Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-soft-skills)
-### [Tech Stacks](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-tech-stacks)
-### [Design Tools](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-design-tools)
-### [Github Stats](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-github-stats)
-### [Contribution](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contribution)
-### [Contact Me](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contact-me)
+## 👨‍✈️ Hi Traveler, Welcome Aboard!
+### Overview 
+#### [Intro](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#%EF%B8%8F-intro)
+#### [Technnical Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-technical-skills)
+#### [Soft Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-soft-skills)
+#### [Tech Stacks](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-tech-stacks)
+#### [Design Tools](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-design-tools)
+#### [Github Stats](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-github-stats)
+#### [Contribution](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contribution)
+#### [Contact Me](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contact-me)
 <br>
 <br>
 
-## 👷‍♂️ Intro
+### 👷‍♂️ Intro
 
 https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930-b097-4417dc64f1e5.mp4
 
@@ -21,14 +21,14 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - I read books on self development, psychology & technological innovations. I've reads, in its simplicity and diversity, books like "The Subtle Art of not giving a Fuck" by Mark Manson, "Staring at the Sun" by Irvin D. Yalom which looks into the meaning and subtlety of Death - the most homorous of them all, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
 - Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community. 
 
-## 🛠 Technical Skills
+### 🛠 Technical Skills
 - Software Engineering
 - Full Stack Development (Frontend & Backend)
 - Responsive Web Design & Development
 - API Design, Development and Consumption
 - Version Control Systems (Git & Github)
 
-## 📚🖋 Soft Skills
+### 📚🖋 Soft Skills
 - Team Leadership and Collaboration
 - Technical Writing
 - Strategic Decision Making
@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 </a>
 <br>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 [![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
 <br>
@@ -107,12 +107,12 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 [![trophy](https://github-profile-trophy.vercel.app/?username=iahm-codes&theme=onedark)](https://github.com/iahm-codes/github-profile-trophy)
 <br>
 
-## 👨‍💻 Contribution
+### 👨‍💻 Contribution
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
 <br>
 
-## 📬 Contact Me
+### 📬 Contact Me
 <br>
 <a href="https://ahmaddev.netlify.app/">
   <img src="https://user-images.githubusercontent.com/110635002/212486825-d05f5241-9994-4cc1-84a4-d10caf912c46.png" alt="Website" width="50" height="auto">
