@@ -1,25 +1,31 @@
-## 👨‍✈️ Hi Traveler, Welcome Aboard!
-### Overview 
-#### [Intro](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#%EF%B8%8F-intro)
-#### [Technnical Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-technical-skills)
-#### [Soft Skills](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-soft-skills)
-#### [Tech Stacks](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-tech-stacks)
-#### [Design Tools](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-design-tools)
-#### [Github Stats](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-github-stats)
-#### [Contribution](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contribution)
-#### [Contact Me](https://github.com/iAhm-codes/iAhm-codes/edit/main/README.md#-contact-me)
-<br>
-<br>
+<h1 align="center">Hi Traveler👋, I'm Tijani Sheu</h1>
+<h3 align="center">Fullstack Software Engineer</h3>
 
-### 👷‍♂️ Intro
+<p> I am currently a Software Engineering(SWE) major, Computer Science, Lagos State University. </p>
 
-https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930-b097-4417dc64f1e5.mp4
+<p>Outside Software Engineering and Design, I fancy reading, content creation and literature reading and writing. I see it a safe haven for my thoughts;</p>
 
-- Hi, I am **Tijani Sheu**, a Software Engineer with a strong Technical prowess in building scalable softwares with the application of cutting-edge software principles.
-- I am presently Pursuing a Bachelor's Degree in Computer Science, lagos State University, with Software Engineering(SWE) as a major.
-- Outside Software Engineering and Design, I fancy reading, content creation and literature reading and writing. I see it a safe haven for my thoughts;
-- I read books on self development, psychology, technological innovations and listen to Tech Podcasts. I've reads, in its simplicity and diversity, books about psychology like, "Staring at the Sun" by Irvin D. Yalom, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.
-- Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community. 
+<p>I read books on self development, psychology, technological innovations and listen to Tech Podcasts. I've reads, in its simplicity and diversity, books about psychology like, "Staring at the Sun" by Irvin D. Yalom, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.</p>
+
+<p>Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community.</p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iahm-codes&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iahm-codes&theme=onedark" alt="ahmad-dev-codes" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AhmadPMTijani" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadPMTijani?logo=twitter&style=for-the-badge" alt="ahmad-dev" /></a> </p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iahm-codes&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ahmad-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iahm-codes&show_icons=true&locale=en&theme=onedark" alt="ahmad-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iahm-codes&theme=onedark" alt="ahmad-dev" /></p>
+
+---
 
 ### 🛠 Technical Skills
 - Software Engineering
@@ -27,6 +33,8 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 - Responsive Web Design & Development
 - API Design, Development and Consumption
 - Version Control Systems (Git & Github)
+
+---
 
 ### 📚🖋 Soft Skills
 - Team Leadership and Collaboration
@@ -97,14 +105,6 @@ https://user-images.githubusercontent.com/110635002/212490874-3247abc8-57af-4930
 <a href="https://www.figma.com/">
   <img src="https://user-images.githubusercontent.com/110635002/212485203-29499c65-e805-474b-b1da-c5fbb6abb7cb.png" alt="Figma" width="30" height="auto">
 </a>
-<br>
-
-### 📊 GitHub Stats
-
-[![iAhm-codes github stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&count_private=true&show_icons=true&theme=radical)](https://github.com/iAhm-codes/github-readme-stats)
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iahm-codes&theme=onedark)](https://github.com/iahm-codes/github-profile-trophy)
 <br>
 
 ### 👨‍💻 Contribution
