@@ -1,7 +1,7 @@
 <h1 align="center">Hi Traveler👋, I'm Tijani Sheu</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
 
-<p> I am currently a Software Engineering(SWE) major, Computer Science, Lagos State University. </p>
+<p> I am currently a Software Engineering (SWE) major, Computer Science, at Lagos State University. </p>
 
 <p>Outside Software Engineering and Design, I fancy reading, content creation and literature reading and writing. I see it a safe haven for my thoughts;</p>
 
@@ -45,7 +45,11 @@
 - Public Speaking
 - SCRUM & Agile Methodology in SDLC
 
+---
+
 ### 💻 Tech Stacks
+
+#### Presentation Layer (Frontend)
 <a href="https://www.w3.org/TR/html5/">
   <img src="https://user-images.githubusercontent.com/110635002/212481330-1665da36-786f-4b1f-9274-0ad47a9ad1e1.png" alt="HTML5" width="40" height="auto">
 </a>
@@ -62,16 +66,16 @@
   <img src="https://user-images.githubusercontent.com/110635002/212481476-1013b4cb-a201-42f5-a1d1-05c18487b69f.png" alt="Tailwind CSS" width="50" height="auto">
 </a>
 &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-  <img src="https://user-images.githubusercontent.com/110635002/212481579-6386d75a-dc45-43dd-9abf-4378402b5cc7.png" alt="JavaScript" width="40" height="auto">
-</a>
-&emsp;
 <a href="https://reactjs.org/">
   <img src="https://user-images.githubusercontent.com/110635002/212481505-5cbf2f8f-c273-4e66-9a3a-37509bc57b95.png" alt="React Js" width="50" height="auto">
 </a>
 &emsp;
-<a href="https://git-scm.com/">
-  <img src="https://user-images.githubusercontent.com/110635002/212484464-3364eeed-e9b1-437e-ac1c-7f91754074fe.png" alt="Git" width="50" height="auto">
+
+---
+
+#### Business Logic Layer (Backend - Server Side Languages)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+  <img src="https://user-images.githubusercontent.com/110635002/212481579-6386d75a-dc45-43dd-9abf-4378402b5cc7.png" alt="JavaScript" width="40" height="auto">
 </a>
 &emsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -81,17 +85,44 @@
 <a href="https://docs.python.org">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50" height="auto">
 </a>
-<br>
+&emsp;
+<a href="https://www.djangoproject.com/">
+  <img src="https://github.com/iAhm-codes/iAhm-codes/assets/110635002/42e51e6d-4c6f-46bf-91fb-8dc5371a4f31" alt="django" width="50" height="auto">
+</a>
+&emsp;
 
-### IDE (Integrated Development Environment)
+---
+
+#### Data Access Layer (Database)
+<a href="https://dev.mysql.com/">
+  <img src="https://github.com/iAhm-codes/iAhm-codes/assets/110635002/a57f88aa-d981-4101-92d7-2bd82b57dcd2" alt="mysql" width="50" height="auto">
+</a>
+&emsp;
+<a href="https://www.mongodb.org/">
+  <img src="https://github.com/iAhm-codes/iAhm-codes/assets/110635002/ef6823bc-743b-4ea0-9d7e-15453f742391" alt="mongodb" width="30" height="auto">
+</a>
+&emsp;
+
+---
+
+#### Version Control (VCS)
+<a href="https://git-scm.com/">
+  <img src="https://user-images.githubusercontent.com/110635002/212484464-3364eeed-e9b1-437e-ac1c-7f91754074fe.png" alt="Git" width="50" height="auto">
+</a>
+&emsp;
+
+---
+
+#### IDE (Integrated Development Environment)
 <a href="https://code.visualstudio.com/">
-  <img src="https://user-images.githubusercontent.com/110635002/212912529-cf41e88b-fe6d-4c3c-ad00-2b22eb81a490.png" alt="VS Code" width="50" height="auto">
+  <img src="https://user-images.githubusercontent.com/110635002/212912529-cf41e88b-fe6d-4c3c-ad00-2b22eb81a490.png" alt="VS Code" width="40" height="auto">
 </a>
 &emsp;
 <a href="https://www.sublimetext.com/">
-  <img src="https://user-images.githubusercontent.com/110635002/212912733-aa6f1fb4-8749-498c-a1f0-35490328a2bd.png" alt="Sublime Text" width="50" height="auto">
+  <img src="https://user-images.githubusercontent.com/110635002/212912733-aa6f1fb4-8749-498c-a1f0-35490328a2bd.png" alt="Sublime Text" width="40" height="auto">
 </a>
-<br>
+
+---
 
 ### 🎨 Design Tools
 <a href="https://www.adobe.com/">
