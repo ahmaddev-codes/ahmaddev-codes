@@ -1,13 +1,10 @@
 <h1 align="center">Hi Traveler👋, I'm Tijani Sheu</h1>
 <h3 align="center">Fullstack Software Engineer</h3>
 
-<p> I am currently a Software Engineering (SWE) major, Computer Science, at Lagos State University. </p>
-
-<p>Outside Software Engineering and Design, I fancy reading, content creation and literature reading and writing. I see it a safe haven for my thoughts;</p>
-
-<p>I read books on self development, psychology, technological innovations and listen to Tech Podcasts. I've reads, in its simplicity and diversity, books about psychology like, "Staring at the Sun" by Irvin D. Yalom, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.</p>
-
-<p>Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community.</p>
+- <p> I am currently a Software Engineering (SWE) major, Computer Science, at Lagos State University. </p>
+- <p>Outside Software Engineering and Design, I fancy reading, content creation and literature reading and writing. I see it a safe haven for my thoughts;</p>
+- <p>I read books on self development, psychology, technological innovations and listen to Tech Podcasts. I've reads, in its simplicity and diversity, books about psychology like, "Staring at the Sun" by Irvin D. Yalom, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson, and many others.</p>
+- <p>Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community.</p>
 
 ---
 
