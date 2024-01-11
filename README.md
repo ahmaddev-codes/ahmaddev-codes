@@ -37,10 +37,11 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 
 ### Backend (Business Logic Layer)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat)
 ![express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=flat)
 ![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
