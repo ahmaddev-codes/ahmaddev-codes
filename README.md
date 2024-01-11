@@ -29,7 +29,6 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=iahm-codes&theme=onedark&margin-w=15&margin-h=15&column=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahm-codes&layout=compact&theme=radical)
 ![stats](https://github-readme-stats.vercel.app/api?username=iahm-codes&show_icons=true&theme=radical&line_height=20)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=iahm-codes&theme=radical)
 ![map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iahm-codes&theme=radical)
 
 ## 🚀 Languages and Tools:
