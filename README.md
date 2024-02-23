@@ -10,21 +10,15 @@
 - 🌱 Laying a foundation for Tech Newbies finding their path, drawing a RoadMap and building a better and impactful Tech Community.
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach out to me:
-  - [Twitter](https://twitter.com/AhmadPMTijani)
-  - [LinkedIn](https://www.linkedin.com/in/sheutijani)
-  - [Upwork](https://www.upwork.com/freelancers/~016ed46f7a925743a9)
-  - [Email](mailto:tijanisheuolamilekan@gmail.com)
-
-![twitter-follower](https://img.shields.io/twitter/follow/AhmadPMTijani?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-blue)
-![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-blue)
+  - [Twitter](https://twitter.com/AhmadPMTijani) ![twitter-follower](https://img.shields.io/twitter/follow/AhmadPMTijani?style=social)
+  - [LinkedIn](https://www.linkedin.com/in/sheutijani) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+  - [Upwork](https://www.upwork.com/freelancers/~016ed46f7a925743a9) ![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-blue)
+  - [Email](mailto:tijanisheuolamilekan@gmail.com) ![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-blue)
 
 ## 📊 My Github Stats
 ![profile views](https://komarev.com/ghpvc/?username=ahmaddev-codes&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ahmaddev-codes.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub User's stars](https://img.shields.io/github/stars/ahmaddev-codes.svg?style=social&label=Star&maxAge=2592000)
-![GitHub repo size](https://img.shields.io/github/repo-size/ahmaddev-codes/ahmaddev-codes.svg?style=flat)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ahmaddev-codes&theme=onedark&margin-w=15&margin-h=15&column=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-codes&layout=compact&theme=radical)
