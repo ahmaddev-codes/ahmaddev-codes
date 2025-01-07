@@ -1,5 +1,5 @@
 <h1 align="center">Hi Traveler👋, I'm Tijani Sheu</h1>
-<h3 align="center">Fullstack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="hacked" width="100%" height="auto">
 
