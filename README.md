@@ -1,7 +1,7 @@
 <h1 align="center">Hi Traveler👋, I am Tijani Sheu</h1>
 <h2 align="center">Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ef04451df84e3e292599b5c98bf0c77f8ec2a9ab56459cffb13ddf061cbdfc6f/68747470733a2f2f70617261646f782e62612f70617261646f782f77702d636f6e74656e742f75706c6f6164732f323031392f30392f3470617261646f782d616e696d6174696f6e2e676966">
+<img align="right" alt="Coding" width="100%" src="https://camo.githubusercontent.com/ef04451df84e3e292599b5c98bf0c77f8ec2a9ab56459cffb13ddf061cbdfc6f/68747470733a2f2f70617261646f782e62612f70617261646f782f77702d636f6e74656e742f75706c6f6164732f323031392f30392f3470617261646f782d616e696d6174696f6e2e676966">
 
 - 👨‍💻 Fullstack Software Engineer with a passion for building scalable and efficient products.
 - 🎓Software Engineering (SWE) major, Computer Science.
