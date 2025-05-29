@@ -1,87 +1,337 @@
-<h1 align="center">Hi Traveler👋, I am Tijani Sheu</h1>
-<h2 align="center">Software Engineer</h3>
+<div align="center">
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img align="right" alt="Coding" width="100%" src="https://camo.githubusercontent.com/ef04451df84e3e292599b5c98bf0c77f8ec2a9ab56459cffb13ddf061cbdfc6f/68747470733a2f2f70617261646f782e62612f70617261646f782f77702d636f6e74656e742f75706c6f6164732f323031392f30392f3470617261646f782d616e696d6174696f6e2e676966">
+<!-- Profile Avatar -->
+<img width="200" height="200" src="https://github.com/ahmaddev-codes.png" alt="Ahmad's Avatar" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.3); margin: 20px 0;"/>
 
-- 👨‍💻 Fullstack Software Engineer with a passion for building scalable and efficient products.
-- 🎓Software Engineering (SWE) major, Computer Science.
-- Outside Software Engineering: Technical and Creative Writing, content creation, gymnastics and literature - safe haven.
-- ⚡Read books on self development, psychology and tech, listens to Tech Podcasts. "Staring at the Sun" by Irvin D. Yalom, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies" by Andrew McAfee and Erik Brynjolfsson.
-- 🌱 Community Building and Management - Google Developer Groups on Campus (GDGoC) Organiser 24/25
-- 👯 Interest: *Open Source Contibutions*, *Artificial Intelligence* & *machine Learning*
-- 📫 Reach out:
-  - [Twitter](https://twitter.com/AhmadPMTijani) ![twitter-follower](https://img.shields.io/twitter/follow/AhmadPMTijani?style=social)
-  - [LinkedIn](https://www.linkedin.com/in/sheutijani) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-  - [Upwork](https://www.upwork.com/freelancers/~016ed46f7a925743a9) ![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-blue)
-  - [Email](mailto:tijanisheuolamilekan@gmail.com) ![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-blue)
 
-## 📊 Github Stats
-![profile views](https://komarev.com/ghpvc/?username=ahmaddev-codes&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/ahmaddev-codes.svg?style=social&label=Follow&maxAge=2592000)
-![GitHub User's stars](https://img.shields.io/github/stars/ahmaddev-codes.svg?style=social&label=Star&maxAge=2592000)
+### 🚀 Fullstack Software Engineer |🌟 Community Builder
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ahmaddev-codes&theme=onedark&margin-w=15&margin-h=15&column=6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-codes&layout=compact&theme=radical)
-![stats](https://github-readme-stats.vercel.app/api?username=ahmaddev-codes&show_icons=true&theme=radical&line_height=20)
-![map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codes&theme=radical)
 
-## 🚀 Languages and Tools:
-### Frontend (Presentation)
-![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+</div>
 
-### Backend (Logic)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat)
-![express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=flat)
-![c](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+## 🎯 About Me
+```javascript
+const ahmad = {
+  title: "Fullstack Software Engineer",
+  education: "Software Engineering (SWE) Major, Computer Science",
+  location: "🌍 Building from anywhere",
+  passions: ["Web Development", "AI/ML", "Open Source"],
+  hobbies: ["Technical Writing", "Content Creation", "Gymnastics", "Literature"],
+  currentlyReading: [
+    "Staring at the Sun by Irvin D. Yalom",
+    "The Second Machine Age by Andrew McAfee & Erik Brynjolfsson"
+  ],
+  interests: ["Community Building", "Tech Podcasts", "Self Development"],
+  availableForHire: true,
+  motto: "Code with passion, build with purpose! 🚀"
+};
+```
 
-### Database (DA)
-![mysql](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=flat)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
+## 📊 GitHub Analytics
 
-### Version Control
-![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat)
+<div align="center">
 
-### IDE - Integrated Development Environment
-![vscode](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat)
-![sublime](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white&style=flat)
+### 📈 Performance Metrics
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddev-codes&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<table>
+<tr>
+<td width="60%">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmaddev-codes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
+</td>
+<td width="50%">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-codes&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+</td>
+</tr>
+</table>
 
-### 🎨 Design and prototyping Tools
-![photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
-![xd](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
-![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+```python
+🐍 Python      ████████████████░░░░ 70%
+⚛️ React       █████████████████░░░ 80%
+🟨 JavaScript  ██████████████████░░ 90%
+🎨 CSS/SASS    ████████████████░░░░ 60%
+🐹 Django      ██████████████░░░░░░ 55%
+```
 
-### 🛠 Technical Skills
-![software-engineering](https://img.shields.io/badge/Software%20Engineering-000000?logo=software-engineering&logoColor=white&style=flat)
-![fullstack-development](https://img.shields.io/badge/Fullstack%20Development-000000?logo=fullstack-development&logoColor=white&style=flat)
-![system-design](https://img.shields.io/badge/System%20Design-000000?logo=system-design&logoColor=white&style=flat)
-![responsive-web-design](https://img.shields.io/badge/Responsive%20Web%20Design-000000?logo=responsive-web-design&logoColor=white&style=flat)
-![api-design-and-development](https://img.shields.io/badge/API%20Design%20and%20Development-000000?logo=api-design-and-development&logoColor=white&style=flat)
-![version-control](https://img.shields.io/badge/Version%20Control-000000?logo=version-control&logoColor=white&style=flat)
+### 🏆 Achievement Showcase
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Followers,Stars,Commits,PullRequest,Issues,Repositories"/>
 
-### 📚🖋 Soft Skills
-![leadership](https://img.shields.io/badge/Leadership-000000?logo=leadership&logoColor=white&style=flat)
-![teamwork](https://img.shields.io/badge/Teamwork-000000?logo=teamwork&logoColor=white&style=flat)
-![communication](https://img.shields.io/badge/Communication-000000?logo=communication&logoColor=white&style=flat)
-![decision-making](https://img.shields.io/badge/Decision%20Making-000000?logo=decision-making&logoColor=white&style=flat)
-![project-management](https://img.shields.io/badge/Project%20Management-000000?logo=project-management&logoColor=white&style=flat)
-![clean-code](https://img.shields.io/badge/Clean%20Code-000000?logo=clean-code&logoColor=white&style=flat)
-![scrum](https://img.shields.io/badge/Scrum-000000?logo=scrum&logoColor=white&style=flat)
-![agile](https://img.shields.io/badge/Agile-000000?logo=agile&logoColor=white&style=flat)
+### 📋 Profile Summary
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codes&theme=radical"/>
 
----
+</div>
 
-### 👨‍💻 Contributions
+
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Mastery
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<br>Sass
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend Excellence
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+</tr>
+</table>
+
+### 🗄️ Database & Cloud
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+</tr>
+</table>
+
+### 🔧 Development Tools
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
+<br>Sublime
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+### 🎨 Design & Creative
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+<br>Photoshop
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
+<br>Adobe XD
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+</table>
+
+</div>
+
+## 💼 Professional Excellence
+
+<div align="center">
+
+### 🔥 Core Competencies
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🏗️ Architecture & Design**
+```yaml
+System Design: ████████████████░ 85%
+API Development: ███████████████░░ 80%
+Database Design: ████████████████░ 85%
+Microservices: ██████████████░░░ 75%
+```
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Development & Delivery**
+```yaml
+Full-Stack Dev: ████████████████░ 90%
+DevOps/CI-CD: ████████████░░░░░ 70%
+Testing: ███████████████░░ 80%
+Performance: ██████████████░░░ 75%
+```
+
+</td>
+<td align="center" width="33%">
+
+**🎯 Leadership & Strategy**
+```yaml
+Team Leadership: ████████████████░ 85%
+Project Management: ███████████████░░ 80%
+Mentoring: ████████████████░ 85%
+Code Review: ███████████████░░ 82%
+```
+</td>
+</tr>
+</table>
+</div>
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+### 🎖️ Recognition & Contributions
+
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
-![hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2021-FF6C37?logo=hacktoberfest&logoColor=white&style=flat)
 
+</td>
+
+### 🌟 Achievement Highlights
+🏅 **Hacktoberfest 2021 Contributor**
+👨‍🏫 **GDGoC Organizer 2024-2025**
+📚 **Technical Writer & Content Creator**
+🤝 **Open Source Software (OSS) Developer**
+💡 **AI/ML Explorer**
+🌍 **Community Builder**
+
+
+</div>
 
 ---
+
+<div align="center">
+
+### 📚 Latest Blog Posts
+🚀 Building Scalable Web Applications with React and Node.js
+🎯 Mastering System Design: A Developer's Journey
+💡 AI Integration in Modern Web Development
+🔧 Best Practices for Full-Stack Development
+
+### 💭 Daily Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shiny)
+
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/username)
+
+
+### 🌟 Support My Work
+<table>
+<tr>
+<td align="center">
+<a href="https://www.buymeacoffee.com/ahmaddev">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+</td>
+<td align="center">
+<a href="https://ko-fi.com/ahmaddev">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi"/>
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+*"The best way to predict the future is to implement it."* 
+
+⭐️ From [ahmaddev-codes](https://github.com/ahmaddev-codes) with 💖
+
+</div>
