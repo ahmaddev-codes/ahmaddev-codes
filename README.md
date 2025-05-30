@@ -5,11 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Profile Avatar -->
-<img width="200" height="200" src="https://github.com/ahmaddev-codes.png" alt="Ahmad's Avatar" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 20px rgba(78, 205, 196, 0.3); margin: 20px 0;"/>
-
-
+  
 ### 🚀 Fullstack Software Engineer |🌟 Community Builder
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
@@ -61,9 +57,11 @@ const ahmad = {
 ```
 
 ### 🏆 Achievement Showcase
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Followers,Stars,Commits,PullRequest,Issues,Repositories"/>
 
 ### 📋 Profile Summary
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codes&theme=radical"/>
 
 </div>
