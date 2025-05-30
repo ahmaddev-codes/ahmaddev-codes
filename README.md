@@ -10,7 +10,6 @@
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
 
-
 </div>
 
 ## 🎯 About Me
@@ -47,7 +46,8 @@ const ahmad = {
 </td>
 </tr>
 </table>
-
+<div align="center">
+  
 ```python
 🐍 Python      ████████████████░░░░ 70%
 ⚛️ React       █████████████████░░░ 80%
@@ -55,6 +55,7 @@ const ahmad = {
 🎨 CSS/SASS    ████████████████░░░░ 60%
 🐹 Django      ██████████████░░░░░░ 55%
 ```
+</div>
 
 ### 🏆 Achievement Showcase
 
