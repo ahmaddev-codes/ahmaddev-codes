@@ -46,16 +46,6 @@ const ahmad = {
 </td>
 </tr>
 </table>
-<div align="center">
-  
-```python
-🐍 Python      ████████████████░░░░ 70%
-⚛️ React       █████████████████░░░ 80%
-🟨 JavaScript  ██████████████████░░ 90%
-🎨 CSS/SASS    ████████████████░░░░ 60%
-🐹 Django      ██████████████░░░░░░ 55%
-```
-</div>
 
 ### 🏆 Achievement Showcase
 
